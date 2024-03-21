@@ -2,9 +2,9 @@
 
 ¡Bienvenido a mi perfil de GitHub! Soy un apasionado por la tecnología y estoy empezando a aprender varios lenguajes de programación. 
 Actualmente soy estudiante de Desarrollo en aplicaciones multiplataforma en el Instituto Superior de Formación Profesional San Antonio (UCAM)
-Estoy enfocando mis estudios en Java principalmente pero por mi cuenta me gusta ir viendo mas alternativas como HTML o C++.![317755_badge_html_html5_achievement_award_icon](https://github.com/cggallego11/cggallego11/assets/145750171/03dbcf18-4bad-40a0-b020-ede8004b4603)
-![9040383_filetype_java_icon](https://github.com/cggallego11/cggallego11/assets/145750171/f198a6fe-5279-4aa5-8637-9d804c2868d9)
-
+Estoy enfocando mis estudios en Java principalmente pero por mi cuenta me gusta ir viendo mas alternativas como HTML o C++.
+![317755_badge_html_html5_achievement_award_icon (1)](https://github.com/cggallego11/cggallego11/assets/145750171/fe33ff0b-d308-4db3-b353-703e1b6da061)
+![9040383_filetype_java_icon (1)](https://github.com/cggallego11/cggallego11/assets/145750171/32f3c535-2e74-4f74-9e8e-0566332b2f61)
 
 ## Sobre mí
 - 🌱 Siempre aprendiendo y explorando nuevas tecnologías.
