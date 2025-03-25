@@ -10,9 +10,9 @@ Estoy enfocando mis estudios en Java principalmente pero por mi cuenta me gusta 
 
 ## Sobre mí
 - 🌱 Siempre aprendiendo y explorando nuevas tecnologías.
-- 🎮 Amante de los videojuegos, especialmente World of Warcraft.
-- 📺 Fanático del anime, mis favoritos incluyen Dragon ball, Hunter x Huner , One piece etc..
-- ⚽ Apasionado por el fútbol, seguidor de Real Madrid/Real Murcia.
+- 🎮 Amante de los videojuegos
+- 📺 Fanático del anime
+- ⚽ Apasionado por el fútbol
 
 
 ## Mis Estadísticas de GitHub
