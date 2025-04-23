@@ -2,14 +2,14 @@
 
 ¡Bienvenido a mi perfil de GitHub! Soy un apasionado por la tecnología y estoy empezando a aprender varios lenguajes de programación. 
 Actualmente soy estudiante de Desarrollo en aplicaciones multiplataforma en el Instituto Superior de Formación Profesional San Antonio (UCAM)
-Estoy enfocando mis estudios en Java principalmente pero por mi cuenta me gusta ir viendo mas alternativas como HTML o C++.
+Estoy enfocando mis estudios en Java (SpringBoot) y Angular.
 
 
 
 ## Sobre mí
 - 🌱 Siempre aprendiendo y explorando nuevas tecnologías.
 - 🎮 Amante de los videojuegos
-- 📺 Fanático del anime
+- 📺 Fanático del anime y las series
 - ⚽ Apasionado por el fútbol
 
 
