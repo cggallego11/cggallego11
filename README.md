@@ -1,15 +1,14 @@
 # ¡Hola, soy Cristóbal! 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado por la tecnología y estoy empezando a aprender varios lenguajes de programación. 
-Actualmente soy estudiante de Desarrollo en aplicaciones multiplataforma en el Instituto Superior de Formación Profesional San Antonio (UCAM)
-Estoy enfocando mis estudios en Java (SpringBoot) y Angular.
-
+¡Bienvenido a mi perfil de GitHub! Soy Cristóbal y trabajo como desarrollador de software backend.
+Trabajo con Java/SpringBoot y Bash como lenguajes principales de programación.
+Las herramientas mas comunes que utilizo en mi dia a dia son Dbeaver para gestión de bases de datos , MRemoteNG para maquinas virtuales (entornos de trabajo) y Jenkins para instalacion de pipelines (entre otras muchas herramientas)
 
 
 ## Sobre mí
 - 🌱 Siempre aprendiendo y explorando nuevas tecnologías.
 - 🎮 Amante de los videojuegos
-- 📺 Fanático del anime y las series
+- 📺 Me encanta el cine y las series
 - ⚽ Apasionado por el fútbol
 
 
